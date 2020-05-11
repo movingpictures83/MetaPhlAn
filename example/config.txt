@@ -1,0 +1,2 @@
+Prefix plugins/MetaPhlAn/example/
+Plugin MetaPhlAn inputfile demo.fastq outputfile profile.txt
