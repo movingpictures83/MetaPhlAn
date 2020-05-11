@@ -10,3 +10,5 @@ profile using MetaPhlAn (Truong et al, 2015).
 
 The plugin requires its lead script (metaphlan.py) to be in the system PATH.
 
+Note: demo.fastq (in the example/ directory) is from the HumanN repository
+(available here: https://huttenhower.sph.harvard.edu/humann)
