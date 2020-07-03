@@ -5,6 +5,7 @@
 
 void MetaPhlAnPlugin::input(std::string file) {
  inputfile = file;
+ system(("rm "+file+".bowtie2out.txt").c_str());
 }
 
 void MetaPhlAnPlugin::run() {}
